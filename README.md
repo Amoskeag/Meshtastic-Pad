@@ -1,6 +1,6 @@
-[![Docs](https://github.com/Amoskeag/Meshtastic Pad/actions/workflows/docs_workflow.yml/badge.svg)](https://github.com/Amoskeag/Meshtastic Pad/actions/workflows/docs_workflow.yml)
-[![Hardware](https://github.com/Amoskeag/Meshtastic Pad/actions/workflows/hardware_workflow.yml/badge.svg)](https://github.com/Amoskeag/Meshtastic Pad/actions/workflows/hardware_workflow.yml)
-[![Firmware](https://github.com/Amoskeag/Meshtastic Pad/actions/workflows/firmware_workflow.yml/badge.svg)](https://github.com/Amoskeag/Meshtastic Pad/actions/workflows/firmware_workflow.yml)
+[![Docs](https://github.com/Amoskeag/Meshtastic-Pad/actions/workflows/docs_workflow.yml/badge.svg)](https://github.com/Amoskeag/Meshtastic-Pad/actions/workflows/docs_workflow.yml)
+[![Hardware](https://github.com/Amoskeag/Meshtastic-Pad/actions/workflows/hardware_workflow.yml/badge.svg)](https://github.com/Amoskeag/Meshtastic-Pad/actions/workflows/hardware_workflow.yml)
+[![Firmware](https://github.com/Amoskeag/Meshtastic-Pad/actions/workflows/firmware_workflow.yml/badge.svg)](https://github.com/Amoskeag/Meshtastic-Pad/actions/workflows/firmware_workflow.yml)
 
 
 # Meshtastic Pad
